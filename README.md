@@ -51,7 +51,7 @@ C. Using LTV:
 #### 📸 Visualizations
 ![RFM analysis](img/Visualization_of_RFM_analysis.png)
 ![RFM score distribution](img/RFM_score_distribution.png)
-![Cohort analysis](img/Cohort_analysis_of_repeat_purchases_(%).png)
+![Cohort analysis](img/Cohort_analysis_of_repeat_purchases.png)
 ![LTV over 6 months](img/Distribution_of_predicted_LTV_over_6_months.png)
 ![Correlation of characteristics with Churn](img/Correlation_of_characteristics_with_Churn.png)
 ![SHAP analysis](img/SHAP_analysis.png)
