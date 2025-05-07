@@ -17,7 +17,7 @@ Understand which customers return and how to increase repeat purchases. It is ne
 #### 🔬 Key Findings
 - RFM analysis revealed that 56.3% of customers are considered “loyal” and generate 64.9% of revenue.
   
-| Customers by segment |
+| Customers by segment ||
 | --- | --- |
 | VIP | 13042 |
 | Big Spenders | 1447 |
