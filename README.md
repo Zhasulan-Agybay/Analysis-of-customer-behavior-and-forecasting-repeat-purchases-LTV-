@@ -16,12 +16,15 @@ Understand which customers return and how to increase repeat purchases. It is ne
 
 #### 🔬 Key Findings
 - RFM analysis revealed that 56.3% of customers are considered “loyal” and generate 64.9% of revenue.
-- Customers by segment:
-    - VIP: 13042
-    - Big Spenders: 1447
-    - Frequent: 3803
-    - At Risk: 11680
-    - Others: 15327
+  
+  | Customers by segment |
+  | --- | --- |
+  | VIP | 13042 |
+  | Big Spenders| 1447 |
+  | Frequent | 3803 |
+  | At Risk | 11680 |
+  | Others | 15327 |
+  
 - Cohort analysis showed that retention declined after 1 month, by an average of 8% each month.
 - The LTV forecast allows you to identify customers with high potential 30.5% of customers provide 2.4% of future revenue.
 - Factors that greatly influence customer retention: Frequency, Age, Product Price, Total Purchase Amount, Cohort index.
